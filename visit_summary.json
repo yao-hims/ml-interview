@@ -1,0 +1,704 @@
+{
+  "visits": [
+    {
+      "user_id": "user45",
+      "visit_id": "visit23",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user81",
+      "visit_id": "visit93",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user93",
+      "visit_id": "visit16",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user46",
+      "visit_id": "visit15",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "Yes",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user60",
+      "visit_id": "visit18",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user64",
+      "visit_id": "visit53",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user15",
+      "visit_id": "visit10",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user66",
+      "visit_id": "visit40",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user73",
+      "visit_id": "visit99",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user30",
+      "visit_id": "visit86",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user44",
+      "visit_id": "visit17",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user90",
+      "visit_id": "visit19",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "No"
+    },
+    {
+      "user_id": "user39",
+      "visit_id": "visit82",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user75",
+      "visit_id": "visit49",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user10",
+      "visit_id": "visit52",
+      "visit_submitted_at": "2025-02-01T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user42",
+      "visit_id": "visit37",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "Yes",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user18",
+      "visit_id": "visit21",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user5",
+      "visit_id": "visit77",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user94",
+      "visit_id": "visit73",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user100",
+      "visit_id": "visit94",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user3",
+      "visit_id": "visit30",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user26",
+      "visit_id": "visit74",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user41",
+      "visit_id": "visit38",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user62",
+      "visit_id": "visit33",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user82",
+      "visit_id": "visit75",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user86",
+      "visit_id": "visit12",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user95",
+      "visit_id": "visit64",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user21",
+      "visit_id": "visit36",
+      "visit_submitted_at": "2025-02-02T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user27",
+      "visit_id": "visit2",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user31",
+      "visit_id": "visit56",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user61",
+      "visit_id": "visit22",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user76",
+      "visit_id": "visit1",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user13",
+      "visit_id": "visit41",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user85",
+      "visit_id": "visit70",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user87",
+      "visit_id": "visit39",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user16",
+      "visit_id": "visit4",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user37",
+      "visit_id": "visit34",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user50",
+      "visit_id": "visit81",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user89",
+      "visit_id": "visit79",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user35",
+      "visit_id": "visit54",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user88",
+      "visit_id": "visit91",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user38",
+      "visit_id": "visit45",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user69",
+      "visit_id": "visit42",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user96",
+      "visit_id": "visit72",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user6",
+      "visit_id": "visit51",
+      "visit_submitted_at": "2025-02-03T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user24",
+      "visit_id": "visit25",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user55",
+      "visit_id": "visit24",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user56",
+      "visit_id": "visit90",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user74",
+      "visit_id": "visit100",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user83",
+      "visit_id": "visit47",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user23",
+      "visit_id": "visit60",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user28",
+      "visit_id": "visit89",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user58",
+      "visit_id": "visit67",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user78",
+      "visit_id": "visit83",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user59",
+      "visit_id": "visit20",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user1",
+      "visit_id": "visit26",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user71",
+      "visit_id": "visit92",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user84",
+      "visit_id": "visit71",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user7",
+      "visit_id": "visit3",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user8",
+      "visit_id": "visit50",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user48",
+      "visit_id": "visit96",
+      "visit_submitted_at": "2025-02-04T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user14",
+      "visit_id": "visit87",
+      "visit_submitted_at": "2025-02-05T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user9",
+      "visit_id": "visit57",
+      "visit_submitted_at": "2025-02-05T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user32",
+      "visit_id": "visit27",
+      "visit_submitted_at": "2025-02-05T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user20",
+      "visit_id": "visit68",
+      "visit_submitted_at": "2025-02-05T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user29",
+      "visit_id": "visit31",
+      "visit_submitted_at": "2025-02-05T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user34",
+      "visit_id": "visit48",
+      "visit_submitted_at": "2025-02-05T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user33",
+      "visit_id": "visit88",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user72",
+      "visit_id": "visit43",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user77",
+      "visit_id": "visit32",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user43",
+      "visit_id": "visit28",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "No"
+    },
+    {
+      "user_id": "user22",
+      "visit_id": "visit97",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user65",
+      "visit_id": "visit65",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user67",
+      "visit_id": "visit14",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user2",
+      "visit_id": "visit59",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user12",
+      "visit_id": "visit44",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user17",
+      "visit_id": "visit6",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user36",
+      "visit_id": "visit61",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "No"
+    },
+    {
+      "user_id": "user92",
+      "visit_id": "visit11",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user98",
+      "visit_id": "visit55",
+      "visit_submitted_at": "2025-02-06T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user47",
+      "visit_id": "visit35",
+      "visit_submitted_at": "2025-02-07T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user11",
+      "visit_id": "visit5",
+      "visit_submitted_at": "2025-02-07T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user25",
+      "visit_id": "visit85",
+      "visit_submitted_at": "2025-02-07T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user57",
+      "visit_id": "visit9",
+      "visit_submitted_at": "2025-02-07T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user68",
+      "visit_id": "visit80",
+      "visit_submitted_at": "2025-02-07T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user80",
+      "visit_id": "visit62",
+      "visit_submitted_at": "2025-02-07T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user4",
+      "visit_id": "visit7",
+      "visit_submitted_at": "2025-02-07T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user19",
+      "visit_id": "visit29",
+      "visit_submitted_at": "2025-02-07T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user40",
+      "visit_id": "visit84",
+      "visit_submitted_at": "2025-02-07T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user54",
+      "visit_id": "visit78",
+      "visit_submitted_at": "2025-02-07T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": "Yes"
+    },
+    {
+      "user_id": "user49",
+      "visit_id": "visit8",
+      "visit_submitted_at": "2025-02-08T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user63",
+      "visit_id": "visit95",
+      "visit_submitted_at": "2025-02-08T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user97",
+      "visit_id": "visit98",
+      "visit_submitted_at": "2025-02-08T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user51",
+      "visit_id": "visit13",
+      "visit_submitted_at": "2025-02-08T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user79",
+      "visit_id": "visit76",
+      "visit_submitted_at": "2025-02-08T00:00:00",
+      "question_1_encoded": "Yes",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user53",
+      "visit_id": "visit46",
+      "visit_submitted_at": "2025-02-08T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user70",
+      "visit_id": "visit66",
+      "visit_submitted_at": "2025-02-08T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user99",
+      "visit_id": "visit69",
+      "visit_submitted_at": "2025-02-08T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user52",
+      "visit_id": "visit63",
+      "visit_submitted_at": "2025-02-08T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    },
+    {
+      "user_id": "user91",
+      "visit_id": "visit58",
+      "visit_submitted_at": "2025-02-08T00:00:00",
+      "question_1_encoded": "No",
+      "question_2_encoded": null
+    }
+  ]
+}
