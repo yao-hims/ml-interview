@@ -1,804 +1,800 @@
 {
-  "patients": [
-    {
-      "user_id": "user45",
-      "age": 34,
-      "gender": true,
-      "starting_weight": "267",
-      "starting_height": "69",
-      "weight_goal": "190"
-    },
-    {
-      "user_id": "user81",
-      "age": 39,
-      "gender": false,
-      "starting_weight": "172",
-      "starting_height": "65",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user93",
-      "age": 44,
-      "gender": false,
-      "starting_weight": "227",
-      "starting_height": "66",
-      "weight_goal": "175"
-    },
-    {
-      "user_id": "user46",
-      "age": 38,
-      "gender": true,
-      "starting_weight": "235",
-      "starting_height": "71",
-      "weight_goal": "190"
-    },
-    {
-      "user_id": "user60",
-      "age": 36,
-      "gender": false,
-      "starting_weight": "165",
-      "starting_height": "64",
-      "weight_goal": "30"
-    },
-    {
-      "user_id": "user64",
-      "age": 38,
-      "gender": false,
-      "starting_weight": "201",
-      "starting_height": "70",
-      "weight_goal": "175"
-    },
-    {
-      "user_id": "user15",
-      "age": 54,
-      "gender": false,
-      "starting_weight": "215",
-      "starting_height": "64",
-      "weight_goal": "145"
-    },
-    {
-      "user_id": "user66",
-      "age": 29,
-      "gender": false,
-      "starting_weight": "180",
-      "starting_height": "69",
-      "weight_goal": "155"
-    },
-    {
-      "user_id": "user73",
-      "age": 60,
-      "gender": true,
-      "starting_weight": "184",
-      "starting_height": "66",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user30",
-      "age": 31,
-      "gender": false,
-      "starting_weight": "180",
-      "starting_height": "66",
-      "weight_goal": "160"
-    },
-    {
-      "user_id": "user44",
-      "age": 30,
-      "gender": false,
-      "starting_weight": "220",
-      "starting_height": "62",
-      "weight_goal": "160"
-    },
-    {
-      "user_id": "user90",
-      "age": 23,
-      "gender": true,
-      "starting_weight": "240",
-      "starting_height": "74",
-      "weight_goal": "190"
-    },
-    {
-      "user_id": "user39",
-      "age": 64,
-      "gender": false,
-      "starting_weight": "144",
-      "starting_height": "63",
-      "weight_goal": "120"
-    },
-    {
-      "user_id": "user75",
-      "age": 58,
-      "gender": false,
-      "starting_weight": "195",
-      "starting_height": "63",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user10",
-      "age": 26,
-      "gender": false,
-      "starting_weight": "205",
-      "starting_height": "67",
-      "weight_goal": "175"
-    },
-    {
-      "user_id": "user42",
-      "age": 23,
-      "gender": true,
-      "starting_weight": "190",
-      "starting_height": "67",
-      "weight_goal": "165"
-    },
-    {
-      "user_id": "user18",
-      "age": 38,
-      "gender": false,
-      "starting_weight": "164",
-      "starting_height": "61",
-      "weight_goal": "120"
-    },
-    {
-      "user_id": "user5",
-      "age": 44,
-      "gender": false,
-      "starting_weight": "166",
-      "starting_height": "65",
-      "weight_goal": "130"
-    },
-    {
-      "user_id": "user94",
-      "age": 50,
-      "gender": false,
-      "starting_weight": "220",
-      "starting_height": "63",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user100",
-      "age": 27,
-      "gender": false,
-      "starting_weight": "219",
-      "starting_height": "63",
-      "weight_goal": "160"
-    },
-    {
-      "user_id": "user3",
-      "age": 49,
-      "gender": false,
-      "starting_weight": "165",
-      "starting_height": "64",
-      "weight_goal": "135"
-    },
-    {
-      "user_id": "user26",
-      "age": 29,
-      "gender": false,
-      "starting_weight": "166",
-      "starting_height": "64",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user41",
-      "age": 39,
-      "gender": true,
-      "starting_weight": "210",
-      "starting_height": "71",
-      "weight_goal": "185"
-    },
-    {
-      "user_id": "user62",
-      "age": 62,
-      "gender": false,
-      "starting_weight": "150",
-      "starting_height": "59",
-      "weight_goal": "115"
-    },
-    {
-      "user_id": "user82",
-      "age": 54,
-      "gender": true,
-      "starting_weight": "249",
-      "starting_height": "70",
-      "weight_goal": "189"
-    },
-    {
-      "user_id": "user86",
-      "age": 38,
-      "gender": true,
-      "starting_weight": "226",
-      "starting_height": "71",
-      "weight_goal": "200"
-    },
-    {
-      "user_id": "user95",
-      "age": 34,
-      "gender": false,
-      "starting_weight": "185",
-      "starting_height": "67",
-      "weight_goal": "160"
-    },
-    {
-      "user_id": "user21",
-      "age": 54,
-      "gender": false,
-      "starting_weight": "160",
-      "starting_height": "65",
-      "weight_goal": "135"
-    },
-    {
-      "user_id": "user27",
-      "age": 28,
-      "gender": false,
-      "starting_weight": "195",
-      "starting_height": "64",
-      "weight_goal": "155"
-    },
-    {
-      "user_id": "user31",
-      "age": 44,
-      "gender": false,
-      "starting_weight": "185",
-      "starting_height": "70",
-      "weight_goal": "155"
-    },
-    {
-      "user_id": "user61",
-      "age": 24,
-      "gender": true,
-      "starting_weight": "314",
-      "starting_height": "74",
-      "weight_goal": "220"
-    },
-    {
-      "user_id": "user76",
-      "age": 41,
-      "gender": false,
-      "starting_weight": "205",
-      "starting_height": "64",
-      "weight_goal": "160"
-    },
-    {
-      "user_id": "user13",
-      "age": 33,
-      "gender": false,
-      "starting_weight": "170",
-      "starting_height": "69",
-      "weight_goal": "152"
-    },
-    {
-      "user_id": "user85",
-      "age": 35,
-      "gender": true,
-      "starting_weight": "250",
-      "starting_height": "70",
-      "weight_goal": "175"
-    },
-    {
-      "user_id": "user87",
-      "age": 37,
-      "gender": false,
-      "starting_weight": "210",
-      "starting_height": "64",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user16",
-      "age": 27,
-      "gender": true,
-      "starting_weight": "220",
-      "starting_height": "65",
-      "weight_goal": "180"
-    },
-    {
-      "user_id": "user37",
-      "age": 58,
-      "gender": false,
-      "starting_weight": "130",
-      "starting_height": "62",
-      "weight_goal": "112"
-    },
-    {
-      "user_id": "user50",
-      "age": 39,
-      "gender": false,
-      "starting_weight": "194",
-      "starting_height": "64",
-      "weight_goal": "165"
-    },
-    {
-      "user_id": "user89",
-      "age": 39,
-      "gender": true,
-      "starting_weight": "210",
-      "starting_height": "71",
-      "weight_goal": "185"
-    },
-    {
-      "user_id": "user35",
-      "age": 47,
-      "gender": false,
-      "starting_weight": "152",
-      "starting_height": "65",
-      "weight_goal": "125"
-    },
-    {
-      "user_id": "user88",
-      "age": 49,
-      "gender": true,
-      "starting_weight": "300",
-      "starting_height": "67",
-      "weight_goal": "220"
-    },
-    {
-      "user_id": "user38",
-      "age": 42,
-      "gender": false,
-      "starting_weight": "150",
-      "starting_height": "65",
-      "weight_goal": "120"
-    },
-    {
-      "user_id": "user69",
-      "age": 57,
-      "gender": true,
-      "starting_weight": "170",
-      "starting_height": "67",
-      "weight_goal": "155"
-    },
-    {
-      "user_id": "user96",
-      "age": 35,
-      "gender": true,
-      "starting_weight": "225",
-      "starting_height": "75",
-      "weight_goal": "200"
-    },
-    {
-      "user_id": "user6",
-      "age": 31,
-      "gender": false,
-      "starting_weight": "155",
-      "starting_height": "66",
-      "weight_goal": "120"
-    },
-    {
-      "user_id": "user24",
-      "age": 59,
-      "gender": false,
-      "starting_weight": "154",
-      "starting_height": "64",
-      "weight_goal": "135"
-    },
-    {
-      "user_id": "user55",
-      "age": 60,
-      "gender": false,
-      "starting_weight": "157",
-      "starting_height": "68",
-      "weight_goal": "138"
-    },
-    {
-      "user_id": "user56",
-      "age": 48,
-      "gender": true,
-      "starting_weight": "240",
-      "starting_height": "72",
-      "weight_goal": "190"
-    },
-    {
-      "user_id": "user74",
-      "age": 36,
-      "gender": true,
-      "starting_weight": "235",
-      "starting_height": "72",
-      "weight_goal": "200"
-    },
-    {
-      "user_id": "user83",
-      "age": 27,
-      "gender": false,
-      "starting_weight": "154",
-      "starting_height": "64",
-      "weight_goal": "135"
-    },
-    {
-      "user_id": "user23",
-      "age": 41,
-      "gender": true,
-      "starting_weight": "292",
-      "starting_height": "75",
-      "weight_goal": "240"
-    },
-    {
-      "user_id": "user28",
-      "age": 29,
-      "gender": false,
-      "starting_weight": "208",
-      "starting_height": "67",
-      "weight_goal": "160"
-    },
-    {
-      "user_id": "user58",
-      "age": 21,
-      "gender": false,
-      "starting_weight": "200",
-      "starting_height": "64",
-      "weight_goal": "120"
-    },
-    {
-      "user_id": "user78",
-      "age": 55,
-      "gender": true,
-      "starting_weight": "320",
-      "starting_height": "76",
-      "weight_goal": "250"
-    },
-    {
-      "user_id": "user59",
-      "age": 47,
-      "gender": false,
-      "starting_weight": "138",
-      "starting_height": "62",
-      "weight_goal": "124"
-    },
-    {
-      "user_id": "user1",
-      "age": 50,
-      "gender": true,
-      "starting_weight": "185",
-      "starting_height": "72",
-      "weight_goal": "155"
-    },
-    {
-      "user_id": "user71",
-      "age": 35,
-      "gender": true,
-      "starting_weight": "260",
-      "starting_height": "74",
-      "weight_goal": "215"
-    },
-    {
-      "user_id": "user84",
-      "age": 23,
-      "gender": false,
-      "starting_weight": "226",
-      "starting_height": "60",
-      "weight_goal": "160"
-    },
-    {
-      "user_id": "user7",
-      "age": 37,
-      "gender": false,
-      "starting_weight": "254",
-      "starting_height": "66",
-      "weight_goal": "165"
-    },
-    {
-      "user_id": "user8",
-      "age": 49,
-      "gender": true,
-      "starting_weight": "240",
-      "starting_height": "76",
-      "weight_goal": "200"
-    },
-    {
-      "user_id": "user48",
-      "age": 43,
-      "gender": true,
-      "starting_weight": "240",
-      "starting_height": "73",
-      "weight_goal": "195"
-    },
-    {
-      "user_id": "user14",
-      "age": 72,
-      "gender": false,
-      "starting_weight": "165",
-      "starting_height": "65",
-      "weight_goal": "135"
-    },
-    {
-      "user_id": "user9",
-      "age": 63,
-      "gender": false,
-      "starting_weight": "263",
-      "starting_height": "62",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user32",
-      "age": 38,
-      "gender": true,
-      "starting_weight": "205",
-      "starting_height": "69",
-      "weight_goal": "175"
-    },
-    {
-      "user_id": "user20",
-      "age": 41,
-      "gender": false,
-      "starting_weight": "185",
-      "starting_height": "62",
-      "weight_goal": "140"
-    },
-    {
-      "user_id": "user29",
-      "age": 41,
-      "gender": false,
-      "starting_weight": "154",
-      "starting_height": "65",
-      "weight_goal": "135"
-    },
-    {
-      "user_id": "user34",
-      "age": 47,
-      "gender": false,
-      "starting_weight": "277",
-      "starting_height": "69",
-      "weight_goal": "190"
-    },
-    {
-      "user_id": "user33",
-      "age": 47,
-      "gender": true,
-      "starting_weight": "196",
-      "starting_height": "66",
-      "weight_goal": "165"
-    },
-    {
-      "user_id": "user72",
-      "age": 45,
-      "gender": true,
-      "starting_weight": "205",
-      "starting_height": "71",
-      "weight_goal": "175"
-    },
-    {
-      "user_id": "user77",
-      "age": 43,
-      "gender": true,
-      "starting_weight": "263",
-      "starting_height": "69",
-      "weight_goal": "200"
-    },
-    {
-      "user_id": "user43",
-      "age": 30,
-      "gender": false,
-      "starting_weight": "235",
-      "starting_height": "66",
-      "weight_goal": "185"
-    },
-    {
-      "user_id": "user22",
-      "age": 36,
-      "gender": true,
-      "starting_weight": "240",
-      "starting_height": "68",
-      "weight_goal": "80"
-    },
-    {
-      "user_id": "user65",
-      "age": 29,
-      "gender": true,
-      "starting_weight": "235",
-      "starting_height": "69",
-      "weight_goal": "190"
-    },
-    {
-      "user_id": "user67",
-      "age": 36,
-      "gender": true,
-      "starting_weight": "205",
-      "starting_height": "70",
-      "weight_goal": "180"
-    },
-    {
-      "user_id": "user2",
-      "age": 46,
-      "gender": true,
-      "starting_weight": "250",
-      "starting_height": "74",
-      "weight_goal": "210"
-    },
-    {
-      "user_id": "user12",
-      "age": 50,
-      "gender": false,
-      "starting_weight": "184",
-      "starting_height": "59",
-      "weight_goal": "120"
-    },
-    {
-      "user_id": "user17",
-      "age": 32,
-      "gender": false,
-      "starting_weight": "160",
-      "starting_height": "66",
-      "weight_goal": "130"
-    },
-    {
-      "user_id": "user36",
-      "age": 53,
-      "gender": true,
-      "starting_weight": "205",
-      "starting_height": "72",
-      "weight_goal": "175"
-    },
-    {
-      "user_id": "user92",
-      "age": 42,
-      "gender": false,
-      "starting_weight": "200",
-      "starting_height": "64",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user98",
-      "age": 52,
-      "gender": false,
-      "starting_weight": "182",
-      "starting_height": "67",
-      "weight_goal": "165"
-    },
-    {
-      "user_id": "user47",
-      "age": 41,
-      "gender": false,
-      "starting_weight": "180",
-      "starting_height": "65",
-      "weight_goal": "143"
-    },
-    {
-      "user_id": "user11",
-      "age": 45,
-      "gender": false,
-      "starting_weight": "184",
-      "starting_height": "68",
-      "weight_goal": "155"
-    },
-    {
-      "user_id": "user25",
-      "age": 61,
-      "gender": false,
-      "starting_weight": "162",
-      "starting_height": "63",
-      "weight_goal": "145"
-    },
-    {
-      "user_id": "user57",
-      "age": 36,
-      "gender": false,
-      "starting_weight": "185",
-      "starting_height": "67",
-      "weight_goal": "160"
-    },
-    {
-      "user_id": "user68",
-      "age": 67,
-      "gender": false,
-      "starting_weight": "157",
-      "starting_height": "67",
-      "weight_goal": "140"
-    },
-    {
-      "user_id": "user80",
-      "age": 67,
-      "gender": false,
-      "starting_weight": "145",
-      "starting_height": "61",
-      "weight_goal": "120"
-    },
-    {
-      "user_id": "user4",
-      "age": 55,
-      "gender": false,
-      "starting_weight": "345",
-      "starting_height": "64",
-      "weight_goal": "250"
-    },
-    {
-      "user_id": "user19",
-      "age": 42,
-      "gender": false,
-      "starting_weight": "398",
-      "starting_height": "71",
-      "weight_goal": "298"
-    },
-    {
-      "user_id": "user40",
-      "age": 33,
-      "gender": false,
-      "starting_weight": "181",
-      "starting_height": "70",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user54",
-      "age": 38,
-      "gender": false,
-      "starting_weight": "150",
-      "starting_height": "65",
-      "weight_goal": "130"
-    },
-    {
-      "user_id": "user49",
-      "age": 30,
-      "gender": false,
-      "starting_weight": "175",
-      "starting_height": "68",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user63",
-      "age": 38,
-      "gender": false,
-      "starting_weight": "297",
-      "starting_height": "64",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user97",
-      "age": 54,
-      "gender": true,
-      "starting_weight": "290",
-      "starting_height": "68",
-      "weight_goal": "240"
-    },
-    {
-      "user_id": "user51",
-      "age": 37,
-      "gender": true,
-      "starting_weight": "235",
-      "starting_height": "68",
-      "weight_goal": "190"
-    },
-    {
-      "user_id": "user79",
-      "age": 31,
-      "gender": false,
-      "starting_weight": "142",
-      "starting_height": "62",
-      "weight_goal": "128"
-    },
-    {
-      "user_id": "user53",
-      "age": 42,
-      "gender": false,
-      "starting_weight": "187",
-      "starting_height": "64",
-      "weight_goal": "145"
-    },
-    {
-      "user_id": "user70",
-      "age": 45,
-      "gender": true,
-      "starting_weight": "225",
-      "starting_height": "70",
-      "weight_goal": "150"
-    },
-    {
-      "user_id": "user99",
-      "age": 37,
-      "gender": false,
-      "starting_weight": "180",
-      "starting_height": "63",
-      "weight_goal": "120"
-    },
-    {
-      "user_id": "user52",
-      "age": 36,
-      "gender": false,
-      "starting_weight": "147",
-      "starting_height": "63",
-      "weight_goal": "125"
-    },
-    {
-      "user_id": "user91",
-      "age": 48,
-      "gender": false,
-      "starting_weight": "184",
-      "starting_height": "62",
-      "weight_goal": "164"
-    }
-  ]
+  "user_id": "user45",
+  "age": 34,
+  "gender": true,
+  "starting_weight": "267",
+  "starting_height": "69",
+  "weight_goal": "190"
+},
+{
+  "user_id": "user81",
+  "age": 39,
+  "gender": false,
+  "starting_weight": "172",
+  "starting_height": "65",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user93",
+  "age": 44,
+  "gender": false,
+  "starting_weight": "227",
+  "starting_height": "66",
+  "weight_goal": "175"
+},
+{
+  "user_id": "user46",
+  "age": 38,
+  "gender": true,
+  "starting_weight": "235",
+  "starting_height": "71",
+  "weight_goal": "190"
+},
+{
+  "user_id": "user60",
+  "age": 36,
+  "gender": false,
+  "starting_weight": "165",
+  "starting_height": "64",
+  "weight_goal": "30"
+},
+{
+  "user_id": "user64",
+  "age": 38,
+  "gender": false,
+  "starting_weight": "201",
+  "starting_height": "70",
+  "weight_goal": "175"
+},
+{
+  "user_id": "user15",
+  "age": 54,
+  "gender": false,
+  "starting_weight": "215",
+  "starting_height": "64",
+  "weight_goal": "145"
+},
+{
+  "user_id": "user66",
+  "age": 29,
+  "gender": false,
+  "starting_weight": "180",
+  "starting_height": "69",
+  "weight_goal": "155"
+},
+{
+  "user_id": "user73",
+  "age": 60,
+  "gender": true,
+  "starting_weight": "184",
+  "starting_height": "66",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user30",
+  "age": 31,
+  "gender": false,
+  "starting_weight": "180",
+  "starting_height": "66",
+  "weight_goal": "160"
+},
+{
+  "user_id": "user44",
+  "age": 30,
+  "gender": false,
+  "starting_weight": "220",
+  "starting_height": "62",
+  "weight_goal": "160"
+},
+{
+  "user_id": "user90",
+  "age": 23,
+  "gender": true,
+  "starting_weight": "240",
+  "starting_height": "74",
+  "weight_goal": "190"
+},
+{
+  "user_id": "user39",
+  "age": 64,
+  "gender": false,
+  "starting_weight": "144",
+  "starting_height": "63",
+  "weight_goal": "120"
+},
+{
+  "user_id": "user75",
+  "age": 58,
+  "gender": false,
+  "starting_weight": "195",
+  "starting_height": "63",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user10",
+  "age": 26,
+  "gender": false,
+  "starting_weight": "205",
+  "starting_height": "67",
+  "weight_goal": "175"
+},
+{
+  "user_id": "user42",
+  "age": 23,
+  "gender": true,
+  "starting_weight": "190",
+  "starting_height": "67",
+  "weight_goal": "165"
+},
+{
+  "user_id": "user18",
+  "age": 38,
+  "gender": false,
+  "starting_weight": "164",
+  "starting_height": "61",
+  "weight_goal": "120"
+},
+{
+  "user_id": "user5",
+  "age": 44,
+  "gender": false,
+  "starting_weight": "166",
+  "starting_height": "65",
+  "weight_goal": "130"
+},
+{
+  "user_id": "user94",
+  "age": 50,
+  "gender": false,
+  "starting_weight": "220",
+  "starting_height": "63",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user100",
+  "age": 27,
+  "gender": false,
+  "starting_weight": "219",
+  "starting_height": "63",
+  "weight_goal": "160"
+},
+{
+  "user_id": "user3",
+  "age": 49,
+  "gender": false,
+  "starting_weight": "165",
+  "starting_height": "64",
+  "weight_goal": "135"
+},
+{
+  "user_id": "user26",
+  "age": 29,
+  "gender": false,
+  "starting_weight": "166",
+  "starting_height": "64",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user41",
+  "age": 39,
+  "gender": true,
+  "starting_weight": "210",
+  "starting_height": "71",
+  "weight_goal": "185"
+},
+{
+  "user_id": "user62",
+  "age": 62,
+  "gender": false,
+  "starting_weight": "150",
+  "starting_height": "59",
+  "weight_goal": "115"
+},
+{
+  "user_id": "user82",
+  "age": 54,
+  "gender": true,
+  "starting_weight": "249",
+  "starting_height": "70",
+  "weight_goal": "189"
+},
+{
+  "user_id": "user86",
+  "age": 38,
+  "gender": true,
+  "starting_weight": "226",
+  "starting_height": "71",
+  "weight_goal": "200"
+},
+{
+  "user_id": "user95",
+  "age": 34,
+  "gender": false,
+  "starting_weight": "185",
+  "starting_height": "67",
+  "weight_goal": "160"
+},
+{
+  "user_id": "user21",
+  "age": 54,
+  "gender": false,
+  "starting_weight": "160",
+  "starting_height": "65",
+  "weight_goal": "135"
+},
+{
+  "user_id": "user27",
+  "age": 28,
+  "gender": false,
+  "starting_weight": "195",
+  "starting_height": "64",
+  "weight_goal": "155"
+},
+{
+  "user_id": "user31",
+  "age": 44,
+  "gender": false,
+  "starting_weight": "185",
+  "starting_height": "70",
+  "weight_goal": "155"
+},
+{
+  "user_id": "user61",
+  "age": 24,
+  "gender": true,
+  "starting_weight": "314",
+  "starting_height": "74",
+  "weight_goal": "220"
+},
+{
+  "user_id": "user76",
+  "age": 41,
+  "gender": false,
+  "starting_weight": "205",
+  "starting_height": "64",
+  "weight_goal": "160"
+},
+{
+  "user_id": "user13",
+  "age": 33,
+  "gender": false,
+  "starting_weight": "170",
+  "starting_height": "69",
+  "weight_goal": "152"
+},
+{
+  "user_id": "user85",
+  "age": 35,
+  "gender": true,
+  "starting_weight": "250",
+  "starting_height": "70",
+  "weight_goal": "175"
+},
+{
+  "user_id": "user87",
+  "age": 37,
+  "gender": false,
+  "starting_weight": "210",
+  "starting_height": "64",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user16",
+  "age": 27,
+  "gender": true,
+  "starting_weight": "220",
+  "starting_height": "65",
+  "weight_goal": "180"
+},
+{
+  "user_id": "user37",
+  "age": 58,
+  "gender": false,
+  "starting_weight": "130",
+  "starting_height": "62",
+  "weight_goal": "112"
+},
+{
+  "user_id": "user50",
+  "age": 39,
+  "gender": false,
+  "starting_weight": "194",
+  "starting_height": "64",
+  "weight_goal": "165"
+},
+{
+  "user_id": "user89",
+  "age": 39,
+  "gender": true,
+  "starting_weight": "210",
+  "starting_height": "71",
+  "weight_goal": "185"
+},
+{
+  "user_id": "user35",
+  "age": 47,
+  "gender": false,
+  "starting_weight": "152",
+  "starting_height": "65",
+  "weight_goal": "125"
+},
+{
+  "user_id": "user88",
+  "age": 49,
+  "gender": true,
+  "starting_weight": "300",
+  "starting_height": "67",
+  "weight_goal": "220"
+},
+{
+  "user_id": "user38",
+  "age": 42,
+  "gender": false,
+  "starting_weight": "150",
+  "starting_height": "65",
+  "weight_goal": "120"
+},
+{
+  "user_id": "user69",
+  "age": 57,
+  "gender": true,
+  "starting_weight": "170",
+  "starting_height": "67",
+  "weight_goal": "155"
+},
+{
+  "user_id": "user96",
+  "age": 35,
+  "gender": true,
+  "starting_weight": "225",
+  "starting_height": "75",
+  "weight_goal": "200"
+},
+{
+  "user_id": "user6",
+  "age": 31,
+  "gender": false,
+  "starting_weight": "155",
+  "starting_height": "66",
+  "weight_goal": "120"
+},
+{
+  "user_id": "user24",
+  "age": 59,
+  "gender": false,
+  "starting_weight": "154",
+  "starting_height": "64",
+  "weight_goal": "135"
+},
+{
+  "user_id": "user55",
+  "age": 60,
+  "gender": false,
+  "starting_weight": "157",
+  "starting_height": "68",
+  "weight_goal": "138"
+},
+{
+  "user_id": "user56",
+  "age": 48,
+  "gender": true,
+  "starting_weight": "240",
+  "starting_height": "72",
+  "weight_goal": "190"
+},
+{
+  "user_id": "user74",
+  "age": 36,
+  "gender": true,
+  "starting_weight": "235",
+  "starting_height": "72",
+  "weight_goal": "200"
+},
+{
+  "user_id": "user83",
+  "age": 27,
+  "gender": false,
+  "starting_weight": "154",
+  "starting_height": "64",
+  "weight_goal": "135"
+},
+{
+  "user_id": "user23",
+  "age": 41,
+  "gender": true,
+  "starting_weight": "292",
+  "starting_height": "75",
+  "weight_goal": "240"
+},
+{
+  "user_id": "user28",
+  "age": 29,
+  "gender": false,
+  "starting_weight": "208",
+  "starting_height": "67",
+  "weight_goal": "160"
+},
+{
+  "user_id": "user58",
+  "age": 21,
+  "gender": false,
+  "starting_weight": "200",
+  "starting_height": "64",
+  "weight_goal": "120"
+},
+{
+  "user_id": "user78",
+  "age": 55,
+  "gender": true,
+  "starting_weight": "320",
+  "starting_height": "76",
+  "weight_goal": "250"
+},
+{
+  "user_id": "user59",
+  "age": 47,
+  "gender": false,
+  "starting_weight": "138",
+  "starting_height": "62",
+  "weight_goal": "124"
+},
+{
+  "user_id": "user1",
+  "age": 50,
+  "gender": true,
+  "starting_weight": "185",
+  "starting_height": "72",
+  "weight_goal": "155"
+},
+{
+  "user_id": "user71",
+  "age": 35,
+  "gender": true,
+  "starting_weight": "260",
+  "starting_height": "74",
+  "weight_goal": "215"
+},
+{
+  "user_id": "user84",
+  "age": 23,
+  "gender": false,
+  "starting_weight": "226",
+  "starting_height": "60",
+  "weight_goal": "160"
+},
+{
+  "user_id": "user7",
+  "age": 37,
+  "gender": false,
+  "starting_weight": "254",
+  "starting_height": "66",
+  "weight_goal": "165"
+},
+{
+  "user_id": "user8",
+  "age": 49,
+  "gender": true,
+  "starting_weight": "240",
+  "starting_height": "76",
+  "weight_goal": "200"
+},
+{
+  "user_id": "user48",
+  "age": 43,
+  "gender": true,
+  "starting_weight": "240",
+  "starting_height": "73",
+  "weight_goal": "195"
+},
+{
+  "user_id": "user14",
+  "age": 72,
+  "gender": false,
+  "starting_weight": "165",
+  "starting_height": "65",
+  "weight_goal": "135"
+},
+{
+  "user_id": "user9",
+  "age": 63,
+  "gender": false,
+  "starting_weight": "263",
+  "starting_height": "62",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user32",
+  "age": 38,
+  "gender": true,
+  "starting_weight": "205",
+  "starting_height": "69",
+  "weight_goal": "175"
+},
+{
+  "user_id": "user20",
+  "age": 41,
+  "gender": false,
+  "starting_weight": "185",
+  "starting_height": "62",
+  "weight_goal": "140"
+},
+{
+  "user_id": "user29",
+  "age": 41,
+  "gender": false,
+  "starting_weight": "154",
+  "starting_height": "65",
+  "weight_goal": "135"
+},
+{
+  "user_id": "user34",
+  "age": 47,
+  "gender": false,
+  "starting_weight": "277",
+  "starting_height": "69",
+  "weight_goal": "190"
+},
+{
+  "user_id": "user33",
+  "age": 47,
+  "gender": true,
+  "starting_weight": "196",
+  "starting_height": "66",
+  "weight_goal": "165"
+},
+{
+  "user_id": "user72",
+  "age": 45,
+  "gender": true,
+  "starting_weight": "205",
+  "starting_height": "71",
+  "weight_goal": "175"
+},
+{
+  "user_id": "user77",
+  "age": 43,
+  "gender": true,
+  "starting_weight": "263",
+  "starting_height": "69",
+  "weight_goal": "200"
+},
+{
+  "user_id": "user43",
+  "age": 30,
+  "gender": false,
+  "starting_weight": "235",
+  "starting_height": "66",
+  "weight_goal": "185"
+},
+{
+  "user_id": "user22",
+  "age": 36,
+  "gender": true,
+  "starting_weight": "240",
+  "starting_height": "68",
+  "weight_goal": "80"
+},
+{
+  "user_id": "user65",
+  "age": 29,
+  "gender": true,
+  "starting_weight": "235",
+  "starting_height": "69",
+  "weight_goal": "190"
+},
+{
+  "user_id": "user67",
+  "age": 36,
+  "gender": true,
+  "starting_weight": "205",
+  "starting_height": "70",
+  "weight_goal": "180"
+},
+{
+  "user_id": "user2",
+  "age": 46,
+  "gender": true,
+  "starting_weight": "250",
+  "starting_height": "74",
+  "weight_goal": "210"
+},
+{
+  "user_id": "user12",
+  "age": 50,
+  "gender": false,
+  "starting_weight": "184",
+  "starting_height": "59",
+  "weight_goal": "120"
+},
+{
+  "user_id": "user17",
+  "age": 32,
+  "gender": false,
+  "starting_weight": "160",
+  "starting_height": "66",
+  "weight_goal": "130"
+},
+{
+  "user_id": "user36",
+  "age": 53,
+  "gender": true,
+  "starting_weight": "205",
+  "starting_height": "72",
+  "weight_goal": "175"
+},
+{
+  "user_id": "user92",
+  "age": 42,
+  "gender": false,
+  "starting_weight": "200",
+  "starting_height": "64",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user98",
+  "age": 52,
+  "gender": false,
+  "starting_weight": "182",
+  "starting_height": "67",
+  "weight_goal": "165"
+},
+{
+  "user_id": "user47",
+  "age": 41,
+  "gender": false,
+  "starting_weight": "180",
+  "starting_height": "65",
+  "weight_goal": "143"
+},
+{
+  "user_id": "user11",
+  "age": 45,
+  "gender": false,
+  "starting_weight": "184",
+  "starting_height": "68",
+  "weight_goal": "155"
+},
+{
+  "user_id": "user25",
+  "age": 61,
+  "gender": false,
+  "starting_weight": "162",
+  "starting_height": "63",
+  "weight_goal": "145"
+},
+{
+  "user_id": "user57",
+  "age": 36,
+  "gender": false,
+  "starting_weight": "185",
+  "starting_height": "67",
+  "weight_goal": "160"
+},
+{
+  "user_id": "user68",
+  "age": 67,
+  "gender": false,
+  "starting_weight": "157",
+  "starting_height": "67",
+  "weight_goal": "140"
+},
+{
+  "user_id": "user80",
+  "age": 67,
+  "gender": false,
+  "starting_weight": "145",
+  "starting_height": "61",
+  "weight_goal": "120"
+},
+{
+  "user_id": "user4",
+  "age": 55,
+  "gender": false,
+  "starting_weight": "345",
+  "starting_height": "64",
+  "weight_goal": "250"
+},
+{
+  "user_id": "user19",
+  "age": 42,
+  "gender": false,
+  "starting_weight": "398",
+  "starting_height": "71",
+  "weight_goal": "298"
+},
+{
+  "user_id": "user40",
+  "age": 33,
+  "gender": false,
+  "starting_weight": "181",
+  "starting_height": "70",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user54",
+  "age": 38,
+  "gender": false,
+  "starting_weight": "150",
+  "starting_height": "65",
+  "weight_goal": "130"
+},
+{
+  "user_id": "user49",
+  "age": 30,
+  "gender": false,
+  "starting_weight": "175",
+  "starting_height": "68",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user63",
+  "age": 38,
+  "gender": false,
+  "starting_weight": "297",
+  "starting_height": "64",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user97",
+  "age": 54,
+  "gender": true,
+  "starting_weight": "290",
+  "starting_height": "68",
+  "weight_goal": "240"
+},
+{
+  "user_id": "user51",
+  "age": 37,
+  "gender": true,
+  "starting_weight": "235",
+  "starting_height": "68",
+  "weight_goal": "190"
+},
+{
+  "user_id": "user79",
+  "age": 31,
+  "gender": false,
+  "starting_weight": "142",
+  "starting_height": "62",
+  "weight_goal": "128"
+},
+{
+  "user_id": "user53",
+  "age": 42,
+  "gender": false,
+  "starting_weight": "187",
+  "starting_height": "64",
+  "weight_goal": "145"
+},
+{
+  "user_id": "user70",
+  "age": 45,
+  "gender": true,
+  "starting_weight": "225",
+  "starting_height": "70",
+  "weight_goal": "150"
+},
+{
+  "user_id": "user99",
+  "age": 37,
+  "gender": false,
+  "starting_weight": "180",
+  "starting_height": "63",
+  "weight_goal": "120"
+},
+{
+  "user_id": "user52",
+  "age": 36,
+  "gender": false,
+  "starting_weight": "147",
+  "starting_height": "63",
+  "weight_goal": "125"
+},
+{
+  "user_id": "user91",
+  "age": 48,
+  "gender": false,
+  "starting_weight": "184",
+  "starting_height": "62",
+  "weight_goal": "164"
 }
